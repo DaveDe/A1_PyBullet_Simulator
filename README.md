@@ -1,4 +1,4 @@
-#A1 Robot Simulation Setup
+# A1 Robot Simulation Setup
 
 The goal is to simulate an A1 robot taking random actions.
 
@@ -29,10 +29,10 @@ In a1_env.py you will send commands to the PyBullet simulator.
 It's fine to use DIRECT mode in PyBullet for now (no robot visualization). 
 To visualize the robot, you need to use GUI mode and you must have a GPU.
 
-[OpenAI Gym] (https://gym.openai.com/)
+[OpenAI Gym](https://gym.openai.com/)
 
-[PyBullet Quickstart Guide] (https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#heading=h.2ye70wns7io3)
+[PyBullet Quickstart Guide](https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#heading=h.2ye70wns7io3)
 
-[Example loading A1 robot in PyBullet] (https://github.com/bulletphysics/bullet3/blob/master/examples/pybullet/gym/pybullet_data/a1/a1.py)
+[Example loading A1 robot in PyBullet](https://github.com/bulletphysics/bullet3/blob/master/examples/pybullet/gym/pybullet_data/a1/a1.py)
 
 If you have any questions, please contact me! Email: ddefazi1@binghamton.edu
