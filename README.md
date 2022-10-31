@@ -27,7 +27,7 @@ You will need to call step() and reset() from run_simulation.py
 In a1_env.py you will send commands to the PyBullet simulator.
 
 It's fine to use DIRECT mode in PyBullet for now (no robot visualization). 
-To visualize the robot, you need to use GUI mode and you must have a GPU.
+To visualize the robot, you need to use GUI mode.
 
 [OpenAI Gym](https://gym.openai.com/)
 
